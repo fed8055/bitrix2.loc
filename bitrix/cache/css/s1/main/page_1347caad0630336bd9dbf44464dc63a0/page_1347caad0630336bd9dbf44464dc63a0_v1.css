@@ -1,0 +1,60 @@
+
+
+/* Start:/bitrix/components/bitrix/main.feedback/templates/.default/style.min.css?1611310634251*/
+div.mf-name,div.mf-email,div.mf-captcha,div.mf-message{width:80%;padding-bottom:.4em}div.mf-name input,div.mf-email input{width:60%}div.mf-message textarea{width:60%}span.mf-req{color:red}div.mf-ok-text{color:green;font-weight:bold;padding-bottom:1em}
+/* End */
+
+
+/* Start:/bitrix/templates/main/components/bitrix/news.list/WhyUs/style.css?1611466514150*/
+div.news-list
+{
+	word-wrap: break-word;
+}
+div.news-list img.preview_picture
+{
+	float:left;
+	margin:0 4px 6px 0;
+}
+.news-date-time {
+	color:#486DAA;
+}
+
+/* End */
+
+
+/* Start:/bitrix/templates/main/components/bitrix/news.list/reviews/style.css?1611466514150*/
+div.news-list
+{
+	word-wrap: break-word;
+}
+div.news-list img.preview_picture
+{
+	float:left;
+	margin:0 4px 6px 0;
+}
+.news-date-time {
+	color:#486DAA;
+}
+
+/* End */
+
+
+/* Start:/bitrix/templates/main/components/bitrix/news.list/contacts/style.css?1611472306150*/
+div.news-list
+{
+	word-wrap: break-word;
+}
+div.news-list img.preview_picture
+{
+	float:left;
+	margin:0 4px 6px 0;
+}
+.news-date-time {
+	color:#486DAA;
+}
+
+/* End */
+/* /bitrix/components/bitrix/main.feedback/templates/.default/style.min.css?1611310634251 */
+/* /bitrix/templates/main/components/bitrix/news.list/WhyUs/style.css?1611466514150 */
+/* /bitrix/templates/main/components/bitrix/news.list/reviews/style.css?1611466514150 */
+/* /bitrix/templates/main/components/bitrix/news.list/contacts/style.css?1611472306150 */

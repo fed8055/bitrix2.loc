@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/bitrix/templates/main/components/bitrix/news.list/WhyUs/style.css" => "1611466514150",]; ?>
